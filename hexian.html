@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html style="height: 100%;">
+<head>
+    <meta charset="utf-8">
+    <!-- 引入 ECharts 文件 -->
+    <script src="echarts.js"></script>
+    <script src="jquery-3.2.1.min.js"></script>
+    <script src="dataTool.js"></script>
+
+
+</head>
+<body style="height: 100%;">
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="main" style="height: 100%;"></div>
+    <script type="text/javascript">
+
+
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('main'));
+
+        // 指定图表的配置项和数据
+      
+
+myChart.showLoading();
+$.get('data/les-miserables11.gexf', function (xml) {
+    myChart.hideLoading();
+
+    var graph = echarts.dataTool.gexf.parse(xml);
+    var categories = [];
+
+    for (var i = 0; i < 3; i++) {
+        categories[i] = {
+            name: '类目' + i
+        };
+    }
+    graph.nodes.forEach(function (node) {
+        node.itemStyle = null;
+        node.value = node.symbolSize/6.25;
+        node.symbolSize /= 1.5;
+        node.label = {
+            normal: {
+                show: node.symbolSize > 10
+            }
+        };
+        node.category = node.attributes.modularity_class;
+    });
+
+    option = {
+        title: {
+            text: '乳饮生产处和弦图',
+            subtext: '生产处-线别-工厂',
+            top: 'bottom',
+            left: 'right'
+        },
+        tooltip: {},
+        toolbox: {
+        show: true,
+        feature: {
+            dataView: {
+                show: true
+            },
+            restore: {
+                show: true
+            },
+            saveAsImage: {
+                show: true
+            }
+        }
+        },
+        legend: [{
+            // selectedMode: 'single',
+            data: categories.map(function (a) {
+                return a.name;
+            })
+        }],
+        animationDurationUpdate: 1500,
+        animationEasingUpdate: 'quinticInOut',
+        series : [
+            {
+                name: '乳饮生产处',
+                type: 'graph',
+                layout: 'circular',
+                circular: {
+                    rotateLabel: true
+                },
+                data: graph.nodes,
+                links: graph.links,
+                categories: categories,
+                focusNodeAdjacency: true,
+                roam: true,
+                label: {
+                    normal: {
+                        position: 'right',
+                        formatter: '{b}'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        color: 'source',
+                        curveness: 0.3
+                    }
+                }
+            }
+        ]
+    };
+
+
+    myChart.setOption(option);
+}, 'xml');
+
+
+
+
+     </script>
+</body>
+</html>

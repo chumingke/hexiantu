@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2017-08-25T09:18:30Z</LastSaved>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>14180</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>460</WindowTopY>
+  <TabRatio>600</TabRatio>
+  <DoNotCalculateBeforeSave/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="DengXian" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="74" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="53" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="76" ss:Span="2"/>
+   <Row>
+    <Cell><Data ss:Type="String">杭州总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">湖南总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">哈尔滨旺旺</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广西总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">长春旺旺</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">安庆总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">漯河厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">江西总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新疆厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">西宁旺旺</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">沈阳总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">隆昌厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">铜川总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淮安总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">泉州厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">安庆总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状开心线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">漯河厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状开心线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">隆昌厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状开心线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淮安总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">管状开心线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">PET线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">安庆总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">PET线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">浙江总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">PET线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">南京总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">PET线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">口袋包线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">湖北总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">口袋包线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淮安总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">口袋包线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广西总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">口袋包线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">江西总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">口袋包线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">浙江总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广州总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">石家庄明旺</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">湖南总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淮安总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">安庆总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">成都总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新疆厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">萨拉齐</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">宁夏明旺</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">乳原</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">安庆总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广州总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淮安总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">浙江总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广西总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">成都总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">长春旺旺</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3-190线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广西总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3-190线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">湖南总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">北京总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐A3-190线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">浙江总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">湖南总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广州总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">成都总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">北京总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">石家庄明旺</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淮安总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">铜川总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐TBA线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">北京总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">利乐晶线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">南京总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">冷链线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">浙江总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">北京总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">成都总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">广州总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淮安总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">南京总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">山东总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">安庆总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">湖南总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">铁罐线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">沈阳总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">酒品</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">杭州总厂</Data></Cell>
+    <Cell><Data ss:Type="String">乳饮生产处</Data></Cell>
+    <Cell><Data ss:Type="String">酒品</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>63</ActiveRow>
+     <RangeSelection>R64</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
