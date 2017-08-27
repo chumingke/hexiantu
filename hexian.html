@@ -39,7 +39,7 @@ $.get('data/les-miserables11.gexf', function (xml) {
         node.symbolSize /= 1.5;
         node.label = {
             normal: {
-                show: node.symbolSize > 10
+                show: node.symbolSize > 1
             }
         };
         node.category = node.attributes.modularity_class;
